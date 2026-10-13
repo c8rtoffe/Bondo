@@ -2,9 +2,6 @@
 
 <div align="center">
 
-![Bondo Banner](assets/screenshot.png)
-
-<br/>
 
 [![Go Version](https://img.shields.io/badge/Go-1.27+-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
 [![Wails](https://img.shields.io/badge/Wails-v2.16-DF0000?style=for-the-badge&logo=wails&logoColor=white)](https://v2.wails.io)
