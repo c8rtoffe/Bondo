@@ -1,0 +1,20 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "bondo",
+  "outputfilename": "bondo",
+  "frontend:install": "npm.cmd ci",
+  "frontend:build": "npm.cmd run build",
+  "frontend:dev:watcher": "npm.cmd run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Bondo Systems",
+    "email": "dev@bondo.app"
+  },
+  "info": {
+    "companyName": "Bondo",
+    "productName": "Bondo",
+    "productVersion": "1.0.0",
+    "copyright": "Copyright 2026",
+    "comments": "Multipath BitTorrent Desktop Accelerator"
+  }
+}
